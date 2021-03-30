@@ -18,4 +18,7 @@ Option Pricing Implied Volatility - Uses Black Scholes approach to estimate impl
 
 RW - Simulates random walk (Pretty pointless)
 
-Option Pricing Monte Carlo - Uses Monte Carlo approach to calculate option price. Can factor in continuous dividends.
+Option Pricing Monte Carlo - Uses Monte Carlo approach to calculate option price. Can factor in continuous dividends. Generates random walks for stock prices and calculate average option prices. Returns a 95% confidence interval of prices also.
+
+
+Option Pricing Heston Model - Uses the Heston Model which generates random walks for volatility to update stock prices and calculate average option prices. Returns the price and 95% confidence interval of simulated european, up-and-out, and down-and-out options.

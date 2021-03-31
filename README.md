@@ -22,3 +22,16 @@ Option Pricing Monte Carlo - Uses Monte Carlo approach to calculate option price
 
 
 Option Pricing Heston Model - Uses the Heston Model which generates random walks for volatility to update stock prices and calculate average option prices. Returns the price and 95% confidence interval of simulated european, up-and-out, and down-and-out options.
+
+Feb1 Sharp and Sortino VBA - Calculates sharp and sortino variables.
+
+Feb10 Deferred Payments VBA - Calculates deferred payments.
+
+Feb15 Sheet Generation VBA - Generates new sheets.
+
+Feb3 Ret Graph VBA - Generates graph of returns.
+
+Feb8 Dist Graph VBA - Generates a distribution graph.
+
+
+

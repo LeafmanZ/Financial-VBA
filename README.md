@@ -33,5 +33,6 @@ Feb3 Ret Graph VBA - Generates graph of returns.
 
 Feb8 Dist Graph VBA - Generates a distribution graph.
 
+VBA on Powerpoint - Applying VBA to powerpoint.
 
 
